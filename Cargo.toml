@@ -1,0 +1,8 @@
+[package]
+name = "brewerydb"
+version = "0.0.1"
+authors = ["Joseph Naegele <joseph.naegele@gmail.com>"]
+
+[dependencies]
+hyper = "0.5.2"
+rustc-serialize = "0.3.15"
